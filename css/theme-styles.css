@@ -243,14 +243,14 @@ ol:not([class]) ul {
       font-size: 12px; }
 
 .list--primary i, .list--primary .woox-icon {
-  color: #00ffb3;
-  fill: #00ffb3;
+  color: #ffed00;
+  fill: #ffed00;
   height: 19px;
   width: 19px; }
 
 .list--primary a:hover {
-  color: #00ffb3;
-  fill: #00ffb3; }
+  color: #ffed00;
+  fill: #ffed00; }
 
 .list--primary ul li:before {
   content: "-";
@@ -1535,7 +1535,7 @@ body.crumina-grid .kc_col-of-5 {
   color: #e8edf6; }
 
 .c-primary {
-  color: #00ffb3; }
+  color: #ffed00; }
 
 .c-secondary {
   color: #3D434F; }
@@ -1568,7 +1568,7 @@ body.crumina-grid .kc_col-of-5 {
   background-color: #3D434F; }
 
 .bg-primary-color {
-  background-color: #00ffb3; }
+  background-color: #ffed00; }
 
 .bg-blue {
   background-color: #00c0f1; }
@@ -1639,12 +1639,12 @@ body.crumina-grid .kc_col-of-5 {
   text-align: center;
   margin-bottom: 30px;
   padding: 20px;
-  background-color: rgba(0, 255, 179, 0.15);
+  background-color: rgba(255, 237, 0, 0.15);
   border-radius: 20px; }
   .icon-demonstration .woox-icon {
     width: 60px;
     height: 60px;
-    fill: #00ffb3; }
+    fill: #ffed00; }
   .icon-demonstration pre {
     font-size: 12px;
     color: red; }
@@ -2444,7 +2444,7 @@ textarea {
       border-radius: 100%;
       display: block;
       position: absolute;
-      background-color: #00ffb3;
+      background-color: #ffed00;
       font-size: 40px;
       transform: translate(-50%, 0);
       left: 50%;
@@ -2453,16 +2453,16 @@ textarea {
     .tabs--style1 ul a:hover {
       border-color: #3D434F;
       color: #3D434F;
-      box-shadow: inset 2px 4px 0 0 #00ffb3, 2px 4px 0 0 #00ffb3; }
+      box-shadow: inset 2px 4px 0 0 #ffed00, 2px 4px 0 0 #ffed00; }
     .tabs--style1 ul a:active {
-      background-color: #00ffb3;
-      border-color: #00ffb3;
+      background-color: #ffed00;
+      border-color: #ffed00;
       box-shadow: inset 2px 4px 0 0 transparent, 2px 4px 0 0 transparent; }
       .tabs--style1 ul a:active:before {
         opacity: 1; }
   .tabs--style1 ul .active a {
-    background-color: #00ffb3;
-    border-color: #00ffb3; }
+    background-color: #ffed00;
+    border-color: #ffed00; }
     .tabs--style1 ul .active a:hover {
       box-shadow: inset 2px 4px 0 0 transparent, 2px 4px 0 0 transparent; }
     .tabs--style1 ul .active a:before {
@@ -2473,15 +2473,15 @@ textarea {
   color: #c3c9d4;
   box-shadow: inset 2px 4px 0 0 transparent, 2px 4px 0 0 transparent; }
   .tabs--style1.tabs--dark ul a:hover {
-    border-color: #00ffb3;
-    color: #00ffb3;
+    border-color: #ffed00;
+    color: #ffed00;
     box-shadow: inset 2px 4px 0 0 transparent, 2px 4px 0 0 transparent; }
   .tabs--style1.tabs--dark ul a:active {
     color: #3D434F; }
 
 .tabs--style1.tabs--dark ul .active a {
   color: #3D434F;
-  border-color: #00ffb3; }
+  border-color: #ffed00; }
 
 .tabs--style2 {
   padding: 0; }
@@ -2503,7 +2503,7 @@ textarea {
           position: absolute;
           width: 50%;
           height: 4px;
-          background-color: #00ffb3;
+          background-color: #ffed00;
           border-radius: 0 0 3px 3px;
           transition: all .3s ease;
           top: 0;
@@ -2516,13 +2516,13 @@ textarea {
           .tabs--style2 ul li a:hover:after {
             opacity: 1; }
         .tabs--style2 ul li a:active {
-          color: #00ffb3;
+          color: #ffed00;
           background-color: transparent; }
           .tabs--style2 ul li a:active:after {
             opacity: 1; }
       .tabs--style2 ul li.active a {
         background-color: transparent;
-        color: #00ffb3; }
+        color: #ffed00; }
         .tabs--style2 ul li.active a:after {
           opacity: 1; }
   .tabs--style2 .tab-content {
@@ -2531,12 +2531,12 @@ textarea {
     background-color: #484e5c;
     color: #fff; }
     .tabs--style2.tabs--dark ul li a:active {
-      color: #00ffb3; }
+      color: #ffed00; }
     .tabs--style2.tabs--dark ul li a:hover {
       background-color: #4f5663; }
   .tabs--style2.tabs--dark ul li.active a {
     background-color: transparent;
-    color: #00ffb3; }
+    color: #ffed00; }
 
 .tabs--style3 {
   padding: 0;
@@ -2564,7 +2564,7 @@ textarea {
         position: absolute;
         width: 50%;
         height: 4px;
-        background-color: #00ffb3;
+        background-color: #ffed00;
         border-radius: 0 0 3px 3px;
         transition: all .3s ease;
         top: 0;
@@ -2572,16 +2572,16 @@ textarea {
         transform: translate(-50%, 0);
         opacity: 0; }
       .tabs--style3 ul li a:hover {
-        color: #00ffb3;
+        color: #ffed00;
         background-color: #4f5663; }
       .tabs--style3 ul li a:active {
         background-color: #fff;
-        color: #00ffb3; }
+        color: #ffed00; }
         .tabs--style3 ul li a:active:after {
           opacity: 1; }
     .tabs--style3 ul li.active a {
       background-color: #fff;
-      color: #00ffb3; }
+      color: #ffed00; }
       .tabs--style3 ul li.active a:after {
         opacity: 1; }
       .tabs--style3 ul li.active a:hover {
@@ -2600,10 +2600,10 @@ textarea {
       color: #666d7a; }
     .tabs--style3.tabs--dark ul li a:active {
       background-color: #3D434F;
-      color: #00ffb3; }
+      color: #ffed00; }
   .tabs--style3.tabs--dark ul li.active a {
     background-color: #3D434F;
-    color: #00ffb3; }
+    color: #ffed00; }
 
 .tabs--style4 {
   background-color: transparent;
@@ -2633,7 +2633,7 @@ textarea {
           margin-top: 25px;
           opacity: 0; }
           .tabs--style4 ul li a .double-arrow .woox-icon:last-child {
-            fill: #00ffb3; }
+            fill: #ffed00; }
         .tabs--style4 ul li a:before, .tabs--style4 ul li a:after {
           content: '';
           display: block;
@@ -2652,21 +2652,21 @@ textarea {
           color: #666d7a; }
         .tabs--style4 ul li a:active {
           background-color: transparent;
-          color: #00ffb3;
+          color: #ffed00;
           z-index: 10; }
           .tabs--style4 ul li a:active .double-arrow {
             opacity: 1; }
           .tabs--style4 ul li a:active:before, .tabs--style4 ul li a:active:after {
-            background-color: #00ffb3; }
+            background-color: #ffed00; }
       .tabs--style4 ul li.active {
         z-index: 10; }
         .tabs--style4 ul li.active a {
-          color: #00ffb3;
+          color: #ffed00;
           background-color: transparent; }
           .tabs--style4 ul li.active a .double-arrow {
             opacity: 1; }
           .tabs--style4 ul li.active a:before, .tabs--style4 ul li.active a:after {
-            background-color: #00ffb3; }
+            background-color: #ffed00; }
   .tabs--style4 .tab-content {
     padding: 60px;
     background-color: #fff;
@@ -2700,9 +2700,9 @@ textarea {
       .tabs--style5 > ul li a:hover {
         color: #666d7a; }
       .tabs--style5 > ul li a:active {
-        color: #00ffb3; }
+        color: #ffed00; }
     .tabs--style5 > ul li.active a {
-      color: #00ffb3; }
+      color: #ffed00; }
     .tabs--style5 > ul li + li {
       margin-top: 60px; }
   .tabs--style5 .tab-content {
@@ -2737,7 +2737,7 @@ textarea {
         position: absolute;
         height: 100%;
         width: 4px;
-        background-color: #00ffb3;
+        background-color: #ffed00;
         top: 0;
         left: -80px;
         opacity: 0;
@@ -2752,15 +2752,15 @@ textarea {
           opacity: 1;
           background-color: #e9edf6; }
       .tabs--style6 > ul li a:active {
-        color: #00ffb3; }
+        color: #ffed00; }
         .tabs--style6 > ul li a:active:after {
           opacity: 1;
-          background-color: #00ffb3; }
+          background-color: #ffed00; }
     .tabs--style6 > ul li.active a {
-      color: #00ffb3; }
+      color: #ffed00; }
       .tabs--style6 > ul li.active a:after {
         opacity: 1;
-        background-color: #00ffb3; }
+        background-color: #ffed00; }
     .tabs--style6 > ul li + li {
       margin-top: 20px; }
 
@@ -2937,10 +2937,10 @@ textarea {
   -ms-flex-align: center;
       align-items: center; }
   .open-main-menu:hover span {
-    border-color: #00ffb3;
+    border-color: #ffed00;
     width: 14px;
     height: 14px;
-    background-color: #00ffb3; }
+    background-color: #ffed00; }
   .open-main-menu span {
     display: block;
     transition: all .3s ease;
@@ -3163,7 +3163,7 @@ textarea {
     font-size: 14px;
     display: block; }
   .sub-footer a:hover {
-    color: #00ffb3; }
+    color: #ffed00; }
 
 .copyright-wrapper {
   display: -ms-flexbox;
@@ -3666,7 +3666,7 @@ img.mfp-img {
   overflow: hidden;
   width: 450px;
   height: 450px;
-  background-color: #00ffb3;
+  background-color: #ffed00;
   display: inline-block;
   box-shadow: inset 0 0 103px 9px #0aeacc; }
   .page-404-thumb .woox-icon {
@@ -3765,7 +3765,7 @@ img.mfp-img {
     .overlay-menu-item a:hover:after, .overlay-menu-item a:focus:after, .overlay-menu-item a:active:after {
       width: 100%; }
     .overlay-menu-item a:hover, .overlay-menu-item a:focus, .overlay-menu-item a:active {
-      color: #00ffb3; }
+      color: #ffed00; }
     .overlay-menu-item a:after {
       content: '';
       position: absolute;
@@ -3774,7 +3774,7 @@ img.mfp-img {
       width: 0;
       transform: translateX(-50%);
       height: 3px;
-      background: #00ffb3;
+      background: #ffed00;
       transition: all .35s ease; }
   .overlay-menu-item .sub-menu {
     position: absolute;
@@ -3923,7 +3923,7 @@ img.mfp-img {
   width: 100%;
   height: 100%;
   min-width: 100%;
-  background: #66ffd1;
+  background: #fff466;
   background-size: 41px;
   opacity: 1; }
 

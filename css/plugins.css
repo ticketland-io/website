@@ -644,8 +644,8 @@ button.swiper-pagination-bullet {
     top: 50%;
     margin-top: -7px;
     right: 28px;
-    border-bottom: 3px solid #00ffb3;
-    border-right: 3px solid #00ffb3;
+    border-bottom: 3px solid #ffed00;
+    border-right: 3px solid #ffed00;
     content: '';
     display: block;
     height: 12px;
@@ -1157,7 +1157,7 @@ button.swiper-pagination-bullet {
 .datepicker td.active p {
   border: 2px solid #3D434F;
   position: relative;
-  box-shadow: inset 2px 3px 0 0 #00ffb3, 2px 3px 0 0 #00ffb3; }
+  box-shadow: inset 2px 3px 0 0 #ffed00, 2px 3px 0 0 #ffed00; }
 
 .datepicker td.active:hover p {
   background-color: transparent; }
@@ -1281,8 +1281,8 @@ button.swiper-pagination-bullet {
     fill: #3D434F; }
   .has-datepicker.is-focused .woox-icon-active, .has-datepicker:active .woox-icon-active {
     opacity: 1;
-    color: #00ffb3;
-    fill: #00ffb3; }
+    color: #ffed00;
+    fill: #ffed00; }
 
 .datepicker-icons {
   position: absolute;
@@ -1390,8 +1390,8 @@ button.swiper-pagination-bullet {
   border-radius: 7px 7px 0 0; }
 
 .datepicker--squared.is-focused .woox-icon, .datepicker--squared:active .woox-icon {
-  color: #00ffb3;
-  fill: #00ffb3; }
+  color: #ffed00;
+  fill: #ffed00; }
 
 .datepicker.datepicker--squared-dropdown {
   border-radius: 0 0 7px 7px;
@@ -1422,8 +1422,8 @@ button.swiper-pagination-bullet {
       display: none; }
     .datepicker.datepicker--squared-dropdown .next p:hover,
     .datepicker.datepicker--squared-dropdown .prev p:hover {
-      color: #00ffb3;
-      fill: #00ffb3; }
+      color: #ffed00;
+      fill: #ffed00; }
   .datepicker.datepicker--squared-dropdown td p {
     border: 3px solid transparent;
     position: relative; }
@@ -1435,11 +1435,11 @@ button.swiper-pagination-bullet {
   .datepicker.datepicker--squared-dropdown td.active p {
     box-shadow: inset 2px 3px 0 0 transparent,2px 3px 0 0 transparent; }
   .datepicker.datepicker--squared-dropdown td.active p {
-    background-color: #00ffb3;
-    border-color: #00ffb3; }
+    background-color: #ffed00;
+    border-color: #ffed00; }
   .datepicker.datepicker--squared-dropdown td.active:hover p {
-    background-color: #00ffb3;
-    border-color: #00ffb3; }
+    background-color: #ffed00;
+    border-color: #ffed00; }
 
 /*------------- #DatePicker Bordered --------------*/
 .datepicker--bordered .datepicker {
@@ -1450,11 +1450,11 @@ button.swiper-pagination-bullet {
   display: none; }
 
 .datepicker--bordered.is-focused .datepicker, .datepicker--bordered:active .datepicker {
-  border-color: #00ffb3; }
+  border-color: #ffed00; }
 
 .datepicker--bordered.is-focused .woox-icon, .datepicker--bordered:active .woox-icon {
-  color: #00ffb3;
-  fill: #00ffb3; }
+  color: #ffed00;
+  fill: #ffed00; }
 
 .datepicker.datepicker--bordered-dropdown {
   border-radius: 7px; }
@@ -1466,7 +1466,7 @@ button.swiper-pagination-bullet {
     background-color: transparent;
     color: #3D434F; }
   .datepicker.datepicker--bordered-dropdown td.active p {
-    border-color: #00ffb3;
+    border-color: #ffed00;
     box-shadow: inset 2px 3px 0 0 transparent,2px 3px 0 0 transparent; }
   .datepicker.datepicker--bordered-dropdown td p {
     position: relative; }
@@ -1478,8 +1478,8 @@ button.swiper-pagination-bullet {
     display: none; }
   .datepicker.datepicker--bordered-dropdown .next p:hover,
   .datepicker.datepicker--bordered-dropdown .prev p:hover {
-    color: #00ffb3;
-    fill: #00ffb3; }
+    color: #ffed00;
+    fill: #ffed00; }
 
 /*------------- #DatePicker With Arrow --------------*/
 .datepicker--with-arrow .datepicker {
