@@ -4485,8 +4485,13 @@ table > tfoot > tr.danger > th {
     left: 80px;
     right: 80px; }
     .crumina-portfolio-item .content .portfolio-title {
-      color: #fff;
+      color: #ffed00;
       margin-bottom: 30px; }
+
+    .crumina-portfolio-item .content .portfolio-title span {
+      color: #fff;
+      font-weight: 900;
+    }
   .crumina-portfolio-item .additional-info {
     opacity: 0;
     transition: all .3s ease;
@@ -6399,5 +6404,3 @@ a img.aligncenter {
 
 .range-slider--blue .irs-slider:before {
   background-color: #00c0f1; }
-
-/*# sourceMappingURL=maps/blocks.css.map */
