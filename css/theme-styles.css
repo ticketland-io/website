@@ -2960,6 +2960,26 @@ textarea {
       height: 16px;
       background-color: #3D434F; }
 
+
+.header-buttons-wrapper {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: justify;
+      justify-content: center; }
+    .header-buttons-wrapper .btn {
+      margin-top: 10px; }
+    @media (min-width: 480px) {
+      .header-buttons-wrapper .btn + .btn {
+        margin-left: 20px; } }
+  @media (max-width: 480px) {
+  .header-buttons-wrapper {
+  width: 100%;
+  flex-wrap: wrap;;
+  -ms-flex-pack: justify;
+      justify-content: space-evenly; } }
+
 /*================= Styles for sticky-Header =========*/
 .animated {
   animation-duration: .5s;
