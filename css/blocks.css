@@ -4711,6 +4711,7 @@ table > tfoot > tr.danger > th {
   padding: 80px 120px;
   border-radius: 50px; }
   .promo-block .btn {
+    white-space: nowrap;
     width: 40%; }
   .promo-block > * + * {
     margin-left: 30px; }
