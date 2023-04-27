@@ -202,6 +202,13 @@
       top: 1px;
       right: -3px; }
 
+
+/*------------- Responsive Mode --------------*/
+@media (max-width: 1024px) {
+  .btn + .btn {
+      margin-left: 0; }
+}
+
 /*------------- #Color-scheme for buttons --------------*/
 .btn--secondary {
   border-color: #3D434F;
