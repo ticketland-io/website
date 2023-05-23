@@ -4708,7 +4708,7 @@ table > tfoot > tr.danger > th {
       align-items: center;
   -ms-flex-pack: justify;
       justify-content: space-between;
-  padding: 80px 120px;
+  padding: 20px 120px;
   border-radius: 50px; }
   .promo-block .btn {
     white-space: nowrap;
